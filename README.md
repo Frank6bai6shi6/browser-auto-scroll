@@ -1,3 +1,11 @@
+<a id="top"></a>
+
+**语言 / Language：** [中文](#中文) · [English](#english)
+
+---
+
+<a id="中文"></a>
+
 # 可调速自动滚动
 
 这是一个适用于 Google Chrome 和 Microsoft Edge 的本地浏览器扩展。点击扩展按钮后，可以让当前网页持续向上或向下滚动，并随时调整速度、暂停或继续。
@@ -47,7 +55,11 @@
 浏览器设置页、扩展商店、新标签页等受保护页面不允许扩展控制，这是 Chrome 和 Edge 的安全限制。切换标签页后，原页面会按原状态继续滚动，直到回到该页面并点击停止，或关闭/刷新该页面。
 
 
+<a id="english"></a>
+
 # Adjustable Auto Scroll
+
+[中文](#中文) · **English** · [返回顶部 / Back to top](#top)
 
 This is a browser extension for Google Chrome and Microsoft Edge. It lets you automatically scroll an entire webpage—or a specific section of it—up or down. You can adjust the speed, pause the scrolling, or resume it at any time.
 
