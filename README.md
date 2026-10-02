@@ -14,7 +14,9 @@
 
 ## 下载最新版
 
-点击下载 `browser-auto-scroll-v1.3.0.zip`。下载后先解压，再按照下面的 Chrome 或 Microsoft Edge 安装步骤加载解压后的文件夹。
+[⬇️ 直接下载 browser-auto-scroll-v1.3.0.zip](https://github.com/Frank6bai6shi6/browser-auto-scroll/releases/download/v1.3.0/browser-auto-scroll-v1.3.0.zip)
+
+也可以前往 [Releases 页面](https://github.com/Frank6bai6shi6/browser-auto-scroll/releases/latest) 查看最新版本。下载后先解压，再按照下面的 Chrome 或 Microsoft Edge 安装步骤加载解压后的文件夹。
 
 > 浏览器不能直接加载 ZIP 压缩包，必须先解压。
 
@@ -67,7 +69,9 @@ I originally made this extension because I often use an online sheet music websi
 
 ## Download the Latest Version
 
-Download `browser-auto-scroll-v1.3.0.zip`, then extract it before following the Chrome or Microsoft Edge installation instructions below.
+[⬇️ Download browser-auto-scroll-v1.3.0.zip](https://github.com/Frank6bai6shi6/browser-auto-scroll/releases/download/v1.3.0/browser-auto-scroll-v1.3.0.zip)
+
+You can also visit the [Releases page](https://github.com/Frank6bai6shi6/browser-auto-scroll/releases/latest) to find the latest version. Extract the downloaded ZIP before following the Chrome or Microsoft Edge installation instructions below.
 
 > Browsers cannot load the ZIP file directly. You must extract it first.
 
