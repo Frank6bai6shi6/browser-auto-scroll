@@ -1,9 +1,9 @@
 # 可调速自动滚动
-主播在用某曲谱网站练琴的时候，常常苦于需要手动进行翻页和滚轮操作，很影响练琴的效率和体验，主播又不太想给网站交大几百的会员费，所以就开发了这个基于JavaScript的网页扩展，适用于曲谱，聊天记录，在线表格，电子书等使用说明如下：
+主播在用某曲谱网站练琴的时候，常常苦于需要手动进行翻页和滚轮操作，很影响练琴的效率和体验，主播又不太想给网站交大几百的会员费，所以就开发了这个基于JavaScript的网页扩展，适用于曲谱，聊天记录，在线表格，电子书等，使用说明如下：
 
 ## 下载最新版
 
-前往 [Releases 下载页面](https://github.com/Frank6bai6shi6/browser-auto-scroll/releases/latest)，下载 `browser-auto-scroll-v1.3.0.zip`。下载后先解压，再按照下面的 Chrome 或 Microsoft Edge 安装步骤加载解压后的文件夹。
+点击下载 `browser-auto-scroll-v1.3.0.zip`。下载后先解压，再按照下面的 Chrome 或 Microsoft Edge 安装步骤加载解压后的文件夹。
 
 > 浏览器不能直接加载 ZIP 压缩包，必须先解压。
 
